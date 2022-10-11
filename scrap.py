@@ -1,8 +1,8 @@
 import csv
-import time
 import requests
 import os.path
 from bs4 import BeautifulSoup
+
 
 # file name
 filename = 'notice.csv'
@@ -71,15 +71,3 @@ def changelog():
             changes.append(row)
         except IndexError:
             print("index error occured and handled")
-
-
-# checking for new notice every 1hour
-while True:
-    check_new_notice()
-    changelog()
-    # reverse changes array
-    changes.reverse()
-    for row in changes:
-        print(row[3])
-    # sleep execution for an hr
-    time.sleep(3600)
