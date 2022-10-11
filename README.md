@@ -1,4 +1,4 @@
-<div align="left>
+<div align="left">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/avi465/cgu-telebot?style=flat-square">
   <img alt="contributors" src="https://img.shields.io/github/contributors/avi465/cgu-telebot?style=flat-square">
   <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/avi465/cgu-telebot?style=flat-square">
