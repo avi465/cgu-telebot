@@ -18,7 +18,7 @@ A telegram bot which checks for any new notice and send it in telegram chat.
 </p>
  
   ### 🌫️ Screenshot
-  <img src="https://github.com/avi465/cgu-telebot/blob/main/img/screenshot.jpg" width="360">
+  <img src="https://user-images.githubusercontent.com/63386918/212113720-0d3d21d4-736f-4b32-9849-520b1a5b42f2.jpg" width="360">
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
